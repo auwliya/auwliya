@@ -2,8 +2,8 @@
 I am Auwliya, I'm from the Netherlands and I'm in VWO 4 right now.
 
 ### Languages
-HTML / CSS 💻
-Python 🐍
+* HTML / CSS 💻
+* Python 🐍
 
 ### I am currently learning:
 Python (arcade and pygame) 🐍
