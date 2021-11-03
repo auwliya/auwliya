@@ -6,8 +6,8 @@ I am Auwliya, I'm from the Netherlands and I'm in VWO 5 right now. I also make p
 * Python 🐍
 
 ### I am currently learning:
-Python (arcade and pygame) 🐍
-Front End Web Development
+* Python (arcade and pygame) 🐍
+* Front End Web Development
 
 ### You can reach me at
 * @Lemon1#1290 on discord 🍋🍊
