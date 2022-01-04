@@ -11,5 +11,4 @@ I am Auwliya, I'm from the Netherlands and I'm in VWO 5 right now. I also make p
 
 ### You can reach me at
 * @Lemon1#1290 on discord 🍋🍊
-* @auwliya123 on instagram
 * @auwliya1 on twitter
